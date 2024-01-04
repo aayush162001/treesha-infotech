@@ -1,0 +1,6 @@
+{
+  "title": "Example Post Title",
+  "body": "This is the body of the post. It can contain any text.",
+  "userId": 1,
+  "id": 101
+}
